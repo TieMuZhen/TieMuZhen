@@ -1,5 +1,13 @@
+<div align="center">
+  <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 550 width=1000 />
+</div>
+
 ### Hi there 👋
 
+
+![info](https://github-readme-stats.vercel.app/api?username=TieMuZhen&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)
 <!--
 **TieMuZhen/TieMuZhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
