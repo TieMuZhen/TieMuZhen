@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 530 width=1000 />
+  <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 520 width=1000 />
 </div>
 
 ### Hi there 👋
