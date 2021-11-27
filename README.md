@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 550 width=1000 />
+  <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 530 width=1000 />
 </div>
 
 ### Hi there 👋
-
+<font face="微软雅黑" size=3>一个喜欢文学与代码的运动小子！:running:</font>
 
 ![info](https://github-readme-stats.vercel.app/api?username=TieMuZhen&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
