@@ -2,10 +2,10 @@
   <img src="https://github.com/TieMuZhen/TieMuZhen/blob/main/header_.jpeg" height= 480 width=900 />
 </div>
 
-### Hi there 👋
-<font face="微软雅黑" size=3>一个喜欢文学的运动小子！:running:</font>
+### 👋 Hi there 
+<font face="微软雅黑" size=3>:running: 一个喜欢文学的运动小子！</font>
 
-抖音小小up主：[动漫小栈](https://www.douyin.com/search/%E5%8A%A8%E6%BC%AB%E5%B0%8F%E6%A0%88?publish_time=0&sort_type=0&source=search_history&type=video)，还请客官一键三连 ~ :octocat:
+:octocat: 抖音小小up主：[动漫小栈](https://www.douyin.com/search/%E5%8A%A8%E6%BC%AB%E5%B0%8F%E6%A0%88?publish_time=0&sort_type=0&source=search_history&type=video)，还请客官一键三连 ~ 
 
 ![info](https://github-readme-stats.vercel.app/api?username=TieMuZhen&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
