@@ -3,7 +3,9 @@
 </div>
 
 ### Hi there 👋
-<font face="微软雅黑" size=3>一个喜欢文学与代码的运动小子！:running:</font>
+<font face="微软雅黑" size=3>一个喜欢文学的运动小子！:running:</font>
+
+抖音小小up主：动漫小栈，还请客官一键三连 ~ :octocat:
 
 ![info](https://github-readme-stats.vercel.app/api?username=TieMuZhen&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
