@@ -13,6 +13,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=TieMuZhen&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 
-![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)
-
 ![](https://img.shields.io/badge/%E6%B5%8F%E8%A7%88%E5%99%A8-Google-blue)
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)
