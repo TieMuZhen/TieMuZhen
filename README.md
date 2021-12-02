@@ -3,6 +3,8 @@
 </div>
 
 ### 👋 Hi there 
+<font face="微软雅黑" size=3>:pencil: 我的[博客](https://github.com/TieMuZhen/Blog)</font>
+
 <font face="微软雅黑" size=3>:running: 一个喜欢文学的运动小子！</font>
 
 <font face="微软雅黑" size=3>:beer: 十级“烧烤”品鉴师，啤酒独爱“雪花”！</font>
